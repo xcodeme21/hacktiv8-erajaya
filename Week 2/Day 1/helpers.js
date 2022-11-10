@@ -1,7 +1,7 @@
 const localeCompare = (curr, next) => {
-  if (next > curr) {
+  if (next < curr) {
     return 1;
-  } else if (next < curr) return -1;
+  } else if (next > curr) return -1;
 };
 
 export const makeAllCaps = async (arr) => {
