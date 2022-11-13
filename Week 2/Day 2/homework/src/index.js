@@ -4,6 +4,7 @@ import './index.css';
 import Navbar from "./Navbar";
 import Meetup from "./Meetup";
 import NextMeetup from "./NextMeetup";
+import AboutMeetup from "./AboutMeetup";
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -12,6 +13,7 @@ root.render(
     <Navbar />
     <Meetup />
     <NextMeetup />
+    <AboutMeetup />
   </React.StrictMode>
 );
 
