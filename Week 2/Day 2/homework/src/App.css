@@ -22,6 +22,20 @@ li {
 .m-20 {
   margin: 20px;
 }
+.p-5 {
+  margin: 5px;
+}
+.pt-5 {
+  padding-top: 5px;
+}
+.pb-5 {
+  padding-bottom: 5px;
+}
+.row-fluid{
+  width: auto;
+  margin-left: 20px;
+  margin-right: 20px;
+}
 
 /* NAVBAR STYLING STARTS */
 .navbar {
@@ -111,4 +125,8 @@ li {
   width: 150px;
   height: 40px;
   font-size: 16px;
+}
+.date-next-meetup{
+  font-size: 13px;
+  color: #b0b0b0;
 }

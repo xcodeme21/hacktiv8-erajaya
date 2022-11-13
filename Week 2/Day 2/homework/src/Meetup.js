@@ -1,6 +1,6 @@
 import "./App.css";
 
-function Body() {
+function Meetup() {
   return (
     <div class="row bg-gray m-10">
       <div class="row m-20">
@@ -38,4 +38,4 @@ function Body() {
   );
 }
 
-export default Body;
+export default Meetup;
