@@ -13,6 +13,15 @@ a {
 li {
  list-style: none;
 }
+.bg-gray{
+  background-color: #c4c4c4;
+}
+.m-10 {
+  margin: 10px;
+}
+.m-20 {
+  margin: 20px;
+}
 
 /* NAVBAR STYLING STARTS */
 .navbar {
@@ -65,4 +74,41 @@ li {
 }
 .menu-login li {
  padding: 5px 14px;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+/* Left and right column */
+.column.side {
+  width: 25%;
+}
+
+/* Middle column */
+.column.middle {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.square {
+  background-color: #bdbdbd;
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
+}
+.btn-join-us{
+  background-color: #4f4f4f;
+  color:white;
+  width: 150px;
+  height: 40px;
+  font-size: 16px;
 }

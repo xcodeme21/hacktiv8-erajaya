@@ -1,6 +1,6 @@
 import "./App.css";
 
-function App() {
+function Navbar() {
   return (
     <nav class="navbar">
       <div class="logo">QTemu</div>
@@ -25,4 +25,4 @@ function App() {
   );
 }
 
-export default App;
+export default Navbar;
