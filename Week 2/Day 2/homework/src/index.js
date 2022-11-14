@@ -6,6 +6,8 @@ import Meetup from "./Meetup";
 import NextMeetup from "./NextMeetup";
 import AboutMeetup from "./AboutMeetup";
 import Members from "./Members";
+import PastMeetups from "./PastMeetups";
+import Footer from "./Footer";
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -16,6 +18,8 @@ root.render(
     <NextMeetup />
     <AboutMeetup />
     <Members />
+    <PastMeetups />
+    <Footer />
   </React.StrictMode>
 );
 
