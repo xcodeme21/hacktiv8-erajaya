@@ -131,6 +131,10 @@ li {
   width: 150px;
   height: 40px;
   font-size: 16px;
+  cursor: pointer;
+}
+.btn-join-us:hover{
+  background-color: #5acef3;
 }
 .date-next-meetup{
   font-size: 13px;
@@ -181,4 +185,8 @@ li {
   width: 150px;
   height: 40px;
   font-size: 16px;
+  cursor: pointer;
+}
+.btn-view:hover{
+  background-color: #5acef3;
 }
