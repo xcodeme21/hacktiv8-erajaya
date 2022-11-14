@@ -9,7 +9,7 @@ function Meetup() {
         </div>
 
         <div class="column middle">
-          <h2>Hactiv8 Meetup</h2>
+          <h2>Hacktiv8 Meetup</h2>
           <br />
           <table>
             <tbody>
@@ -26,7 +26,7 @@ function Meetup() {
               <tr>
                 <td>Organizers</td>
                 <td></td>
-                <td>Adhy Winarata</td>
+                <td>Agus Siswanto</td>
               </tr>
             </tbody>
           </table>

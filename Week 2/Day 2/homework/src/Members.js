@@ -21,7 +21,7 @@ function Members() {
               <td>&emsp;</td>
               <td>
                 <h2>Organizers</h2>
-                <p class="pt-5">Adhy Wiranata &emsp;4 others</p>
+                <p class="pt-5">Agus Siswanto &emsp;4 others</p>
               </td>
             </tr>
           </table>

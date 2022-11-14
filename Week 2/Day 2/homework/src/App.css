@@ -136,6 +136,9 @@ li {
   font-size: 13px;
   color: #b0b0b0;
 }
+.went{
+  color: #b0b0b0;
+}
 .circle{
   height: 75px;
   width: 75px;
@@ -167,9 +170,15 @@ li {
 
 /* Number */
 .item:before {
-  counter-increment: albumList;
-  content: counter(albumList);
   margin: auto;
   font-size: 40px;
   color: #000000;
+}
+.btn-view{
+  background-color: #828282;
+  border: #828282;
+  color:white;
+  width: 150px;
+  height: 40px;
+  font-size: 16px;
 }

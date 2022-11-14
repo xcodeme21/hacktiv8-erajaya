@@ -5,7 +5,7 @@ function Footer() {
     <div class="row m-10">
       <hr />
       <br />
-      <div align="center">Copyright Hactiv8 2018</div>
+      <div align="center">Copyright Hacktiv8 2018</div>
     </div>
   );
 }
