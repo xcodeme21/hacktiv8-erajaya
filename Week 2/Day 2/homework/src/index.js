@@ -5,6 +5,7 @@ import Navbar from "./Navbar";
 import Meetup from "./Meetup";
 import NextMeetup from "./NextMeetup";
 import AboutMeetup from "./AboutMeetup";
+import Members from "./Members";
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -14,6 +15,7 @@ root.render(
     <Meetup />
     <NextMeetup />
     <AboutMeetup />
+    <Members />
   </React.StrictMode>
 );
 

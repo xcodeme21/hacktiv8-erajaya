@@ -23,7 +23,13 @@ li {
   margin: 20px;
 }
 .p-5 {
-  margin: 5px;
+  padding: 5px;
+}
+.p-10 {
+  padding: 10px;
+}
+.p-20 {
+  padding: 20px;
 }
 .pt-5 {
   padding-top: 5px;
@@ -129,4 +135,15 @@ li {
 .date-next-meetup{
   font-size: 13px;
   color: #b0b0b0;
+}
+.circle{
+  height: 75px;
+  width: 75px;
+  background-color: #828282;
+  border-radius: 50%;
+  display: inline-block;
+}
+.main-header {
+  display: flex;
+  justify-content: space-between;
 }
