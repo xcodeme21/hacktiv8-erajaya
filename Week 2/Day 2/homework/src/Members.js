@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import "./App.css";
 
 function Members() {
@@ -16,7 +17,7 @@ function Members() {
           <table>
             <tr>
               <td>
-                <span class="circle"></span>
+                <img src="/me.png" width={80} />
               </td>
               <td>&emsp;</td>
               <td>

@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import "./App.css";
 
 function Meetup() {
@@ -5,7 +6,7 @@ function Meetup() {
     <div class="row bg-gray m-10">
       <div class="row m-20">
         <div class="column side" align="center">
-          <div class="square"></div>
+          <img src="/me.png" width={200} />
         </div>
 
         <div class="column middle">
