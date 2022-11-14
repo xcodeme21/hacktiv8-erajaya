@@ -6,6 +6,7 @@ function Footer() {
       <hr />
       <br />
       <div align="center">Copyright Hacktiv8 2018</div>
+      <br />
     </div>
   );
 }
